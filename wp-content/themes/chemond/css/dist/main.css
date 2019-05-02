@@ -948,3 +948,8 @@ object {
 html {
   font-size: 62.5%;
 }
+
+.teste {
+  font-size: 20px;
+  font-size: 2rem;
+}
